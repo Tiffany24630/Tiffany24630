@@ -130,6 +130,11 @@ Aplicación de escritorio enfocada en la gestión y optimización de fondos de p
 
 <div align="center">
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany24630&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=Tiffany24630&theme=tokyonight&hide_border=true" alt="Racha de commits"/>
 
 </div>
