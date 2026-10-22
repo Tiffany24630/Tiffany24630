@@ -130,12 +130,6 @@ Aplicación de escritorio enfocada en la gestión y optimización de fondos de p
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiffany24630&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany24630&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Tiffany24630&theme=tokyonight&hide_border=true" alt="Racha de commits"/>
 
 </div>
@@ -159,7 +153,5 @@ Aplicación de escritorio enfocada en la gestión y optimización de fondos de p
 <div align="center">
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tiffany24630&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
